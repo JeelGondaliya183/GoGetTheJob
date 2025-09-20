@@ -1,0 +1,6 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain_core
+streamlit
+PyPDF2
