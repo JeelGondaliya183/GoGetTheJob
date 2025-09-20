@@ -5,5 +5,5 @@ Generate resume and cover letter based on the job description
 ## Step 2: Run ollama pull llama3.2 (or your preferred model) but llama3.2 is a light weight model
 ## Step 3: Start Ollama service
 ## Step 4: pip install -r requirement.txt
-## Step 5: run streamlit app - streamlit run getthejob.py
+## Step 5: run streamlit app - streamlit run main.py
 
